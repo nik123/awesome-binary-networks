@@ -15,3 +15,8 @@ Some variations with weights/activation values {-1;0;+1} or {0:+1} are also incl
 * [Towards Accurate Binary Convolutional Neural Network](https://arxiv.org/abs/1711.11294) arXiv2017
 * [Training a Binary Weight Object Detector by Knowledge Transfer for Autonomous Driving](https://arxiv.org/abs/1804.06332) - arXiv2018
 * [Self-Binarizing Networks](https://arxiv.org/abs/1902.00730) - arXiv2019
+
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
